@@ -1,0 +1,49 @@
+{
+  "chart_type": "bar",
+  "title": "Benchmark Accuracy by Method",
+  "slug": "benchmark-accuracy",
+  "x": "method",
+  "y": "accuracy",
+  "series": "dataset",
+  "units": {
+    "accuracy": "%"
+  },
+  "formats": [
+    "png",
+    "svg",
+    "pdf"
+  ],
+  "data": [
+    {
+      "method": "Baseline",
+      "dataset": "Dataset A",
+      "accuracy": 71.2
+    },
+    {
+      "method": "Model X",
+      "dataset": "Dataset A",
+      "accuracy": 78.5
+    },
+    {
+      "method": "Model Y",
+      "dataset": "Dataset A",
+      "accuracy": 82.1
+    },
+    {
+      "method": "Baseline",
+      "dataset": "Dataset B",
+      "accuracy": 68.4
+    },
+    {
+      "method": "Model X",
+      "dataset": "Dataset B",
+      "accuracy": 75.8
+    },
+    {
+      "method": "Model Y",
+      "dataset": "Dataset B",
+      "accuracy": 80.3
+    }
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "title": "RAG System Architecture with OCR and Reranking",
+  "mode": "concept",
+  "language": "zh",
+  "audience": "research group meeting and engineering design review",
+  "background": "A retrieval-augmented generation system processes document images and PDFs, extracts text with OCR, chunks content, embeds chunks, retrieves from a vector index, reranks candidates, and synthesizes an answer with citations.",
+  "must_include": [
+    "OCR",
+    "chunking",
+    "embedding",
+    "vector search",
+    "rerank",
+    "answer synthesis"
+  ],
+  "style_constraints": [
+    "科研论文风格",
+    "白色背景",
+    "模块边界清晰",
+    "短中文标签",
+    "箭头明确",
+    "信息密度适中"
+  ],
+  "negative_constraints": [
+    "不要商业宣传海报风格",
+    "不要伪造性能数字",
+    "不要使用第三方 provider 或反代说明",
+    "不要大面积渐变背景"
+  ]
+}
+

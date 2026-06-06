@@ -1,0 +1,11 @@
+{
+  "concept": {
+    "zh": "请绘制一张科研论文风格的工程图。主题：{title}。受众：{audience}。背景：{background}。必须包含：{must_include}。布局要求：使用清晰的模块层级、明确箭头、短标签和从左到右或从上到下的阅读顺序。视觉风格：{style_constraints}。不要包含：{negative_constraints}。",
+    "en": "Draw a research-paper-style engineering figure. Title: {title}. Audience: {audience}. Background: {background}. Must include: {must_include}. Layout: use clear module hierarchy, explicit arrows, short labels, and a left-to-right or top-to-bottom reading order. Visual style: {style_constraints}. Do not include: {negative_constraints}."
+  },
+  "mixed": {
+    "zh": "请绘制一张包含概念面板和本地精确数值面板占位的科研论文风格复合图。主题：{title}。受众：{audience}。背景：{background}。必须包含：{must_include}。数值面板应标注为由本地脚本生成的精确图表占位。视觉风格：{style_constraints}。不要包含：{negative_constraints}。",
+    "en": "Draw a research-paper-style composite figure with conceptual panels and placeholders for exact locally rendered quantitative panels. Title: {title}. Audience: {audience}. Background: {background}. Must include: {must_include}. Quantitative panels should be marked as exact local-plot placeholders. Visual style: {style_constraints}. Do not include: {negative_constraints}."
+  }
+}
+

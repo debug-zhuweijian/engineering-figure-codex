@@ -1,0 +1,36 @@
+{
+  "name": "engineering-figure-codex",
+  "version": "0.1.0",
+  "description": "Codex Desktop plugin for engineering and research figures.",
+  "author": {
+    "name": "debug-zhuweijian",
+    "url": "https://github.com/debug-zhuweijian"
+  },
+  "homepage": "https://github.com/debug-zhuweijian/engineering-figure-codex",
+  "repository": "https://github.com/debug-zhuweijian/engineering-figure-codex",
+  "license": "MIT",
+  "keywords": [
+    "engineering-figures",
+    "research-figures",
+    "codex-desktop",
+    "publication-plots"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Engineering Figure Codex",
+    "shortDescription": "Create engineering figures, paper diagrams, and exact plots in Codex.",
+    "longDescription": "Engineering Figure Codex provides Codex Desktop workflows for system architecture diagrams, paper-style conceptual figures, and exact local publication plots. It does not require image API keys or route image requests through third-party providers.",
+    "developerName": "debug-zhuweijian",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use Engineering Figure Codex to draw a Chinese RAG architecture figure with OCR, chunking, embedding, vector search, rerank, and answer synthesis.",
+      "Use Engineering Figure Codex to design an English paper-style method figure for my system.",
+      "Use Engineering Figure Codex to render an exact benchmark plot from this data."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

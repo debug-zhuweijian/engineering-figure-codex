@@ -1,0 +1,8 @@
+interface:
+  display_name: "Engineering Figure Codex"
+  short_description: "Engineering figures and exact plots"
+  brand_color: "#2563EB"
+  default_prompt: "Use $engineering-figure-codex to create a paper-style engineering figure or exact plot."
+policy:
+  allow_implicit_invocation: true
+
