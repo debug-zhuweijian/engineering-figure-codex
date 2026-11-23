@@ -1,9 +1,9 @@
 ---
-name: paper-figure
+name: paper-image
 description: Design and generate scientific paper figures, graphical abstracts, method overviews, framework diagrams, architecture diagrams, pipelines and figure revisions. Use when asked to 画科研图、论文主图、课题框架图、模型架构图、方法流程图 or to turn a scientific method and optional references into a new figure using the current app's image tool or editable vector output.
 ---
 
-# Paper Figure
+# Paper Image
 
 Create the requested figure using the current host's signed-in capabilities. The skill requires no service credentials, API clients, relays, or paid API setup. Use the steps below in the same turn when possible.
 
