@@ -1,4 +1,0 @@
-interface:
-  display_name: "Paper Image"
-  short_description: "Generate paper figures with native tools"
-  default_prompt: "Use $paper-image to create a paper-ready figure from my method and references."
